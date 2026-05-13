@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="pokeball.svg" width="80" alt="PokéDex Pro Logo"/>
+<img src="public/pokeball.svg" width="80" alt="PokéDex Pro Logo"/>
 
 # 🔴 PokéDex Pro — Advanced Pokémon Encyclopedia
 
